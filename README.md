@@ -1,2 +1,2 @@
 # test
-Playing with git.
+Playing with git commands.
